@@ -130,7 +130,7 @@ int main()
     // head = insertAtFirst(head,100);
     // head = insertAtIndex(head,33,2);
     // head = insertAtLast(head,56545);
-    head = insertAtLast(head,999,second);
+    head = insertAtLast(head,999);
     ListTraversal(head);
     
 }
